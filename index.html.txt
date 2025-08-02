@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon - [Your Company Name]</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            padding: 40px;
+            background: white;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        .logo {
+            max-width: 150px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-weight: 600;
+            font-size: 2.5em;
+            margin: 0;
+        }
+        p {
+            font-weight: 300;
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin: 20px 0;
+        }
+        .contact {
+            margin-top: 30px;
+            font-weight: 300;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            font-weight: 300;
+        }
+        .footer a {
+            color: #555;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+       
+        
+        <h1>Our New Store is Coming Soon! Dreams Clothing</h1>
+        
+        <p>
+            The best online destination for modern women's apparel and accessories in Kyrgyzstan.
+        </p>
+        
+        <div class="contact">
+            For any inquiries, please contact us at: <br>
+            <a href="mailto:Dreamsclothing.kg@gmail.com">Dreamsclothing.kg@gmail.com</a>
+        </div>
+        
+        <div class="footer">
+            <a href="#">Terms & Conditions</a> | <a href="#">Privacy Policy</a>
+        </div>
+    </div>
+</body>
+</html>
